@@ -5,6 +5,7 @@ from uuid import uuid4
 import redis
 from functools import wraps
 
+
 '''
     Writing strings to Redis.
 '''
